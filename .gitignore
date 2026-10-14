@@ -1,0 +1,18 @@
+# Only presentation documents are intended for this repository.
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+*.zip
+*.dump
+*.sqlite*
+__pycache__/
+node_modules/
+.local/
+private/
+data/
+models/
+outputs/
