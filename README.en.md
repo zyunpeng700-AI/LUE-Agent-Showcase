@@ -23,6 +23,8 @@ Availability depends on registered resources and validated workflows. Representa
 
 ## Technology overview
 
+[Interface screenshots](docs/screenshots.md) show the actual React UI with synthetic accounts and fixture data. They are not live scientific results or evidence of a publicly hosted service.
+
 React and TypeScript frontend, FastAPI application API, background task execution, PostgreSQL, and separate scientific resources and user artifacts.
 
 Detailed prompts, internal decision rules, source code, model weights and datasets are excluded. No open-source license is granted for unreleased software.
